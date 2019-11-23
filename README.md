@@ -12,3 +12,5 @@ The grouping of the tweets was performed by using a text analysis on each tweet,
 A quality check of the data was manually performed to identify a margin of error. 
 
 The margin of error ranged between 3 and 5% for each shooting analyzed.
+
+https://www.washingtonpost.com/religion/how-president-obama-politicized-thoughts-and-prayers-after-mass-shootings/2019/04/19/2895d7b6-5d5c-11e9-a00e-050dc7b82693_story.html
